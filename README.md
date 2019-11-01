@@ -67,7 +67,7 @@ In this project, algorithms listed below refer to published papers were **implem
 6. **Semi-supervised Representative Feature Selection**, implemented as **SRFS** based on:
     - ["An efficient semi-supervised representatives feature selection algorithm based on information theory"](https://linkinghub.elsevier.com/retrieve/pii/S0031320316302242) by Yintong Wang, Jiandong Wang, Hao Liao, Haiyan Chen.
 7. **Classified Nested Equivalent Class based Feature Selection**, implemented as **CNEC**
-    - Originally designed and implemented.
+    - Originally designed and implemented. Name of the algorithm has been changed from "*Incremental Decision Rough Equivalent Class(ID-REC)*" into "*Classified Nested Equivalent Class(CNEC)*"
 
 -----
 
@@ -151,8 +151,4 @@ Here are the full class paths of the implemented algorithm demos:
 - **DDC**: *tester.impl.heuristic.quickReduct.dependencyCalculation.DirectDependencyCalculationAlgorithmHeuristicQRTesterTest*
 - **FAR-DV**: *tester.impl.heuristic.quickReduct.discernibilityView.TengDiscernibilityViewHeuristicQRTesterTest*
 - **SRFS**: *tester.impl.heuristic.quickReduct.semisupervisedRepresentative.SemisupervisedRepresentativesFeatureSelectionHeuristicQRTesterTest*
-<<<<<<< HEAD
 - **CNEC**: *tester.impl.heuristic.quickReduct.roughEquivalentClassBased.original.extension.incrementalDecision.RoughEquivalentClassBasedAlgorithmIncrementalDecisionHeuristicQRTesterTest*
-=======
-- **CNEC**: *tester.impl.heuristic.quickReduct.roughEquivalentClassBased.original.extension.incrementalDecision.RoughEquivalentClassBasedAlgorithmIncrementalDecisionHeuristicQRTesterTest*
->>>>>>> 54db88b799feba093460091c0734939532531064
