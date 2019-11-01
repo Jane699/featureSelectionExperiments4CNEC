@@ -1,0 +1,7 @@
+package featureSelection.repository.frame.support.algStrategy.roughEquivalentClassBased.extension;
+
+import featureSelection.repository.frame.support.algStrategy.roughEquivalentClassBased.RoughEquivalentClassBasedStrategy;
+
+public interface IncrementalDecisionRoughEquivalentClassBasedStrategy extends RoughEquivalentClassBasedStrategy {
+
+}
