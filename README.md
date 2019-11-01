@@ -151,4 +151,8 @@ Here are the full class paths of the implemented algorithm demos:
 - **DDC**: *tester.impl.heuristic.quickReduct.dependencyCalculation.DirectDependencyCalculationAlgorithmHeuristicQRTesterTest*
 - **FAR-DV**: *tester.impl.heuristic.quickReduct.discernibilityView.TengDiscernibilityViewHeuristicQRTesterTest*
 - **SRFS**: *tester.impl.heuristic.quickReduct.semisupervisedRepresentative.SemisupervisedRepresentativesFeatureSelectionHeuristicQRTesterTest*
+<<<<<<< HEAD
 - **CNEC**: *tester.impl.heuristic.quickReduct.roughEquivalentClassBased.original.extension.incrementalDecision.RoughEquivalentClassBasedAlgorithmIncrementalDecisionHeuristicQRTesterTest*
+=======
+- **CNEC**: *tester.impl.heuristic.quickReduct.roughEquivalentClassBased.original.extension.incrementalDecision.RoughEquivalentClassBasedAlgorithmIncrementalDecisionHeuristicQRTesterTest*
+>>>>>>> 54db88b799feba093460091c0734939532531064
